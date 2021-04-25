@@ -1,2 +1,8 @@
 1. git init
-2. 
+
+4. git remote add origin https://github.com/ikartikgautam/test.git
+
+2. git add .
+3. git commit -m "Added kapil.txt file"
+
+5. Git push origin master
